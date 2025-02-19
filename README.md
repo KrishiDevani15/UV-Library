@@ -91,10 +91,10 @@ eg uv add fastapi sqlalchemy alembic uvicorn
 ```
 
 ![App Screenshot](https://github.com/user-attachments/assets/d6d6d4fd-f8d2-4339-9f85-0342c99fa0b3)
-- Note `uv going to make sure that the .venv folder will be automaticallt add in .gitignore file so not going to push ths code from our virtual environment`
+- Note `uv going to make sure that the .venv folder will be automatically add in .gitignore file so not going to push ths code from our virtual environment`
 `1) Create own Dependencies List by its own`
 
-`2) Also Create uv.lock file verify what versions of all the Dependencies and sun-Dependencies required for my project`
+`2) Also Create uv.lock file verify what versions of all the Dependencies and sub-Dependencies required for my project`
 
 - Run project 👉🏻 uv run <command>
 ```bash
